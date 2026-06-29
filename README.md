@@ -21,6 +21,18 @@ This repository contains my learning practice for Git, GitHub, SQL, MySQL, Power
 * Cloud data warehouse basics
 * ETL pipeline practice
 
+## Git Practice Completed
+
+I have practiced:
+
+- Initializing a Git repository
+- Creating commits
+- Connecting local project to GitHub
+- Pushing changes
+- Creating branches
+- Merging branches
+- Understanding Pull Requests
+
 ## Author
 
 Sai Kiran
