@@ -1,0 +1,20 @@
+# python virtual environment.
+.venv/
+venv/
+
+# python cache files
+__pycache__/
+*.pyc
+
+# Environment Varibles /secrets
+.env
+# Logs
+*.log
+
+# Large/raw data files
+*.csv
+*.xlsx
+*.json
+
+# Jupiter checkpoints
+.ipynb_checkpoints/
