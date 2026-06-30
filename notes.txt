@@ -3,5 +3,4 @@ Git is used to track project changes.
 GitHub is used to upload projects online.
 My goal is to become a Data Analyst / Junior Data Engineer.
 Today I learned Git branches.
-Branches help us test changes without affecting the main project.1
-This is a wrong committed line for revert practice.
+Branches help us test changes without affecting the main project.
